@@ -36,4 +36,4 @@ Next-generation **Enscape Pulse** suite delivering professional-grade 3D modelin
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.  
+> This repository is provided for educational and utility purposes only. Use at your own discretion.   
